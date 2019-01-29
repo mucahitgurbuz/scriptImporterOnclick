@@ -8,4 +8,4 @@ loadScript([
 ], pdfGenerate2D);
 ```
 
-*loadScript* function will import required libraries for the function _pdfGenerate2d_ then runs the function. This process will reduce the initial page load time for the feature that is not initiated on page load. 
+*loadScript* function will import required external libraries for the function _pdfGenerate2d_ then runs the function. This process will reduce the initial page load time for the feature that is not initiated on page load. 
